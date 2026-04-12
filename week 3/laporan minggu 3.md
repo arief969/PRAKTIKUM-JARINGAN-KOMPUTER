@@ -8,19 +8,17 @@
 5. 3.5
 
 # Lampiran
-Hasil Percobaan:
-Pertama, buka wireshark pencet dua kali tulisan “wifi”:
-![Hasil Percobaan](../assets/image/soal1(3.2).png)
+
 
 # 3.2 Basic HTTP GET/response interaction
 # Membuka aplikasi Wireshark dan memilih interface Wi-Fi yang sedang aktif.
-![Hasil Percobaan](../assets/3.2.no1)
+![Hasil Percobaan](../assets/3.2.no1.png)
 # Menerapkan display filter http untuk membatasi paket yang tertangkap
-![Hasil Percobaan](../assets/3.2.no2)
+![Hasil Percobaan](../assets/3.2.no2.png)
 # Mengakses URL http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html melalui Chrome.
-![Hasil Percobaan](../assets/3.2.no3)
+![Hasil Percobaan](../assets/3.2.no3.png)
 #  Menganalisis GET (No. 3384)
-![Hasil Percobaan](../assets/3.2.no4)
+![Hasil Percobaan](../assets/3.2.no4.png)
 
 # 3.2.1 HTTP CONDITIONAL GET/response interaction
 #  Bersihkan cache browser

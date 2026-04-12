@@ -1,11 +1,8 @@
 # Laporan Praktikum Jarkom
 
 # Langkah Percobaan
-1. 3.2
-2. 3.2.1
-3. 3.3
-4. 3.4
-5. 3.5
+1. 5.2
+
 
 # Lampiran
 

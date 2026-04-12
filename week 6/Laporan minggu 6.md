@@ -1,8 +1,10 @@
 # Laporan Praktikum Jarkom
 
 # Langkah Percobaan
-1. 5.2
-
+1. 6.2
+2. 6.3
+3. 6.4
+4. 6.5
 
 # Lampiran
 # 6.2 Menangkap Tansfer TCP dalam Jumlah Besar dari Komputer Pribadi ke Remote Server

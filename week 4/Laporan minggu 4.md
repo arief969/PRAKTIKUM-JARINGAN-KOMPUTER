@@ -1,5 +1,8 @@
 # Laporan Praktikum Jarkom
-
+# Langkah Percobaan
+1. 4.2
+2. 4.3
+3. 4.4
 # Lampiran Modul 4 DNS
 # Soal 4.2 Nslookup
 ![Hasil Percobaan](../assets/4.2.1.png)

@@ -12,7 +12,7 @@
 
 # 3.2 Basic HTTP GET/response interaction
 # Membuka aplikasi Wireshark dan memilih interface Wi-Fi yang sedang aktif.
-![Hasil Percobaan](../assets/3.2.no1.jpg)
+![Hasil Percobaan](../assets/3.2.no1.png)
 # Menerapkan display filter http untuk membatasi paket yang tertangkap
 ![Hasil Percobaan](../assets/3.2.no2.png)
 # Mengakses URL http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html melalui Chrome.

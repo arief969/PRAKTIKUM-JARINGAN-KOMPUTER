@@ -83,4 +83,4 @@
 # 401 Unauthorized (No. 311)
 ![Hasil Percobaan](../assets/3.5.5.png)
 # ET dengan Authorization (No. 1219)
-![Hasil Percobaan](../assets/3.5.6.png.png)
+![Hasil Percobaan](../assets/3.5.6.png)

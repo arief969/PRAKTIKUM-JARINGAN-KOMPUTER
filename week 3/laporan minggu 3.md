@@ -12,7 +12,7 @@
 
 # 3.2 Basic HTTP GET/response interaction
 # Membuka aplikasi Wireshark dan memilih interface Wi-Fi yang sedang aktif.
-![Hasil Percobaan](../assets/3.2.no1.png)
+![Hasil Percobaan](../assets/3.2.no1.jpg)
 # Menerapkan display filter http untuk membatasi paket yang tertangkap
 ![Hasil Percobaan](../assets/3.2.no2.png)
 # Mengakses URL http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html melalui Chrome.
@@ -83,4 +83,4 @@
 # 401 Unauthorized (No. 311)
 ![Hasil Percobaan](../assets/3.5.5.png)
 # ET dengan Authorization (No. 1219)
-![Hasil Percobaan](../assets/3.5.6.png)
+![Hasil Percobaan](../assets/1111png)

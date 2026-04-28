@@ -4,7 +4,7 @@
 1. 9.3
 2. 9.4
 3. 9.5
-4. Latihan
+4. 9.6
 
 # Lampiran
 # 9.3 Menjalankan Server

@@ -9,7 +9,7 @@
 # Lampiran
 # 11.1 Ketik ipconfig /release
 1
-![Hasil Percobaan](../assets/11.1.1.png.png)
+![Hasil Percobaan](../assets/11.1.1.png)
 # 11.1 Ketik ipconfig /renew
 ![Hasil Percobaan](../assets/11.2.png)
 # 11.3 hasil
